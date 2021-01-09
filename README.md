@@ -6,3 +6,6 @@ I'm a simple guy who wants to be known for something one day.
 
 ## Goals For The Future
 * Learn C++ and C#
+
+##Contact me
+wheatley.xyz@protonmail.com
